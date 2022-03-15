@@ -1,0 +1,44 @@
+Dia     Afectados    Uci      Exitus   Camas      Saturacion 
+1        5738        574       14     2789        no saturacion
+2        7746        775       19     2015        no saturacion
+3        10457       1046      26     969         no saturacion
+4        14116       1412      35     -443        saturación
+5        19057       1906      48     -2348       saturación
+6        25727       2573      64     -4921       saturación
+7        34732       3473      87     -8394       saturación
+8        46888       4689      117    -13083      saturación
+9        63298       6330      158    -19413      saturación
+10       85453       8545      214    -27958      saturación
+11       115361      11536     288    -39494      saturación
+12       155738      15574     389    -55068      saturación
+13       210246      21025     526    -76093      saturación
+14       283832      28383     710    -104476     saturación
+15       383173      38317     958    -142793     saturación
+16       517284      51728     1293   -194522     saturación
+17       698334      69833     1746   -264355     saturación
+18       942750      94275     2357   -358630     saturación
+19       1272713     127271    3182   -485901     saturación
+20       1718163     171816    4295   -657718     saturación
+21       2319520     231952    5799   -889670     saturación
+Dia     Afectados    Uci      Exitus   Camas      Saturacion 
+1        5738        574       14     2789        no saturacion
+2        7746        775       19     2015        no saturacion
+3        10457       1046      26     969         no saturacion
+4        14116       1412      35     -443        saturación
+5        19057       1906      48     -2348       saturación
+6        25727       2573      64     -4921       saturación
+7        34732       3473      87     -8394       saturación
+8        46888       4689      117    -13083      saturación
+9        63298       6330      158    -19413      saturación
+10       85453       8545      214    -27958      saturación
+11       115361      11536     288    -39494      saturación
+12       155738      15574     389    -55068      saturación
+13       210246      21025     526    -76093      saturación
+14       283832      28383     710    -104476     saturación
+15       383173      38317     958    -142793     saturación
+16       517284      51728     1293   -194522     saturación
+17       698334      69833     1746   -264355     saturación
+18       942750      94275     2357   -358630     saturación
+19       1272713     127271    3182   -485901     saturación
+20       1718163     171816    4295   -657718     saturación
+21       2319520     231952    5799   -889670     saturación
